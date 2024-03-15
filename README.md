@@ -1,4 +1,5 @@
-# Uber Density in New York - using Tableau
+# Uber Density in New York
+### Tools used: Tableau and Excel
 
 -	The dataset comprises monthly Uber pick-up records from April to July 2014, supplemented by additional data providing corresponding weather information for the same period.
 -	Identified high-density Uber pick-up locations during workday rush hours, optimizing service distribution and enhancing operational efficiency.
